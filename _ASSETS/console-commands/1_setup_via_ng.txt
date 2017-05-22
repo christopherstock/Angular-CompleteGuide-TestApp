@@ -1,0 +1,4 @@
+npm install -g @angular/cli
+ng new Angular_CompleteGuide_TestApp
+cd Angular_CompleteGuide_TestApp
+ng serve
